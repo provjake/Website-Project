@@ -1,0 +1,23 @@
+.card1 {
+   background: url("Picture Archives/nails.jpg"); 
+   background-size: 18rem;
+   background-position: center;
+}
+
+.card2 {
+    background: url("Picture Archives/eye shadow.jpg"); 
+    background-size: 18rem;
+    background-position: center;
+ }
+
+ .card3 {
+    background: url("Picture Archives/hair.jpg"); 
+    background-size: 18rem;
+    background-position: center;
+ }
+
+ .card4 {
+    background: url("Picture Archives/nail polish.jpg"); 
+    background-size: 18rem;
+    background-position: center;
+ }
